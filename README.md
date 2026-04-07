@@ -26,7 +26,7 @@ smart-crop-advisor/
 streamlit run app.py
 ```
 
-The app will open automatically in your browser at `http://localhost:8501`
+The app will open automatically in your browser at `https://smart-crop-advisor-zx95sxmqgvuabswaegqktx.streamlit.app`
 
 ---
 
